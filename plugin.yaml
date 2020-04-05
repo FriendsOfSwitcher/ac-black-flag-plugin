@@ -1,0 +1,17 @@
+# Required items.
+game: "Assassin's Creed Black Flag"
+api: 1
+steamID: 242050
+uid: com.thegreatcabbage.acblackflag
+author: TheGreatCabbage
+packageName: acblackflag
+features:
+  - graphics
+
+# Optional items.
+graphicsConfig: 
+  - "$!DOCUMENTS!$/Assassin's Creed IV Black Flag/Assassin4.ini"
+  - "$!DOCUMENTS!$/Assassin's Creed IV Black Flag/GFXSettings.AC4BFSP.xml"
+gameDirectory: "Assassin's Creed IV Black Flag"
+verificationPaths:
+  - AC4BFSP.exe
